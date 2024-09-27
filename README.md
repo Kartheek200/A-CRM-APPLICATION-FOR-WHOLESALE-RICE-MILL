@@ -44,7 +44,7 @@ https://youtu.be/G6Q2Vt8S6mU?si=olAwSZ2mT1e03te4
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Johnwick-400/CRM_Application_for_a_Wholesale_Rice_Mill
+    git clone https://github.com/Kartheek200/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL
     ```
 2. **Setup Salesforce Environment**:
     - Log in to your Salesforce Developer account.
