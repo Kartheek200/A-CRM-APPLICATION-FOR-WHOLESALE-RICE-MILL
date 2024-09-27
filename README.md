@@ -38,7 +38,7 @@ The **Rice Mill CRM Application** is a comprehensive solution designed to stream
 
 Watch the demo video to see how Wholesale Rice Mill CRM Application in action:
 
-[![Wholesale Rice Mill CRM](https://img.youtube.com/vi/iAFz3voBXQQ/0.jpg)](https://youtu.be/iAFz3voBXQQ)
+[![Wholesale Rice Mill CRM](https://youtu.be/v2s5paSS1Gw?si=hMSEP_G0-myz_ZfD)
 
 ## Getting Started
 
